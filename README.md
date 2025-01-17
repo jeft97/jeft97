@@ -4,12 +4,37 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefte-matamba-b57484151/)
 
 ## See Some of My Work
-<div>
-    <a style="display:block; textDecoration:none" href="https://hair-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"> Hair Dresser </a>
-    <a style="display:block" href="https://shop-cart-2024.netlify.app/" target="_blank" rel="noopener noreferrer">Shopping Cart </a>
-    <a style="display:block" href="https://dictionary-web-app-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"> Dictionary Web App </a>
-    <a style="display:block" href="https://personal-blog-2022.netlify.app" target="_blank" rel="noopener noreferrer">Blog - Front Page </a>
-    <a style="display:block" href="https://weather-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"> Weather Web App</a>
+<div style="margin-bottom: 20px;">
+    <a style="display: block; text-decoration: none; color: white;" 
+       href="https://hair-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"
+       onmouseover="this.style.textDecoration='underline'" 
+       onmouseout="this.style.textDecoration='none'">
+       Hair Dresser
+    </a>
+    <a style="display: block; text-decoration: none; color: white;" 
+       href="https://shop-cart-2024.netlify.app/" target="_blank" rel="noopener noreferrer"
+       onmouseover="this.style.textDecoration='underline'" 
+       onmouseout="this.style.textDecoration='none'">
+       Shopping Cart
+    </a>
+    <a style="display: block; text-decoration: none; color: white;" 
+       href="https://dictionary-web-app-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"
+       onmouseover="this.style.textDecoration='underline'" 
+       onmouseout="this.style.textDecoration='none'">
+       Dictionary Web App
+    </a>
+    <a style="display: block; text-decoration: none; color: white;" 
+       href="https://personal-blog-2022.netlify.app" target="_blank" rel="noopener noreferrer"
+       onmouseover="this.style.textDecoration='underline'" 
+       onmouseout="this.style.textDecoration='none'">
+       Blog - Front Page
+    </a>
+    <a style="display: block; text-decoration: none; color: white;" 
+       href="https://weather-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"
+       onmouseover="this.style.textDecoration='underline'" 
+       onmouseout="this.style.textDecoration='none'">
+       Weather Web App
+    </a>
 </div>
 
 ![jeft's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeft97&show_icons=true&theme=radical)
