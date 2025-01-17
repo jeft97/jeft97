@@ -11,7 +11,7 @@
 - [Blog - Front Page](https://personal-blog-2022.netlify.app)
 - [Weather Web App](https://weather-jeft97.netlify.app/)
 
----
+##
 
 
 ![jeft's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeft97&show_icons=true&theme=radical)
