@@ -5,11 +5,11 @@
 
 ## See Some of My Work
 
-- 🎨 [Hair Dresser](https://hair-jeft97.netlify.app/)
-- 🛒 [Shopping Cart](https://shop-cart-2024.netlify.app/)
-- 📖 [Dictionary Web App](https://dictionary-web-app-jeft97.netlify.app/)
-- ✍️ [Blog - Front Page](https://personal-blog-2022.netlify.app)
-- 🌦️ [Weather Web App](https://weather-jeft97.netlify.app/)
+🎨 <a href="https://hair-jeft97.netlify.app/" target="_blank">Hair Dresser</a>  <br/>
+🛒 <a href="https://shop-cart-2024.netlify.app/" target="_blank">Shopping Cart</a>   <br/>
+📖 <a href="https://dictionary-web-app-jeft97.netlify.app/" target="_blank">Dictionary Web App</a>   <br/>
+✍️ <a href="https://personal-blog-2022.netlify.app" target="_blank">Blog - Front Page</a>   <br/>
+🌦️ <a href="https://weather-jeft97.netlify.app/" target="_blank">Weather Web App</a>
 
 ##
 
