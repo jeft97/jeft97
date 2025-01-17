@@ -5,11 +5,11 @@
 
 ## See Some of My Work
 <div>
-    <a href="https://hair-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"> Hair Dresser </a>
-    <a href="https://shop-cart-2024.netlify.app/" target="_blank" rel="noopener noreferrer">Shopping Cart </a>
-    <a href="https://dictionary-web-app-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"> Dictionary Web App </a>
-    <a href="https://personal-blog-2022.netlify.app" target="_blank" rel="noopener noreferrer">Blog - Front Page </a>
-    <a href="https://weather-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"> Weather Web App</a>
+    <a style="display:block; textDecoration:none" href="https://hair-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"> Hair Dresser </a>
+    <a style="display:block" href="https://shop-cart-2024.netlify.app/" target="_blank" rel="noopener noreferrer">Shopping Cart </a>
+    <a style="display:block" href="https://dictionary-web-app-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"> Dictionary Web App </a>
+    <a style="display:block" href="https://personal-blog-2022.netlify.app" target="_blank" rel="noopener noreferrer">Blog - Front Page </a>
+    <a style="display:block" href="https://weather-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"> Weather Web App</a>
 </div>
 
 ![jeft's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeft97&show_icons=true&theme=radical)
