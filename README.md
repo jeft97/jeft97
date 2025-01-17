@@ -5,14 +5,14 @@
 
 ## See Some of My Work
 
-<div style="margin-bottom: 20px;">
+- [Hair Dresser](https://hair-jeft97.netlify.app/)
+- [Shopping Cart](https://shop-cart-2024.netlify.app/)
+- [Dictionary Web App](https://dictionary-web-app-jeft97.netlify.app/)
+- [Blog - Front Page](https://personal-blog-2022.netlify.app)
+- [Weather Web App](https://weather-jeft97.netlify.app/)
 
-[Hair Dresser](https://hair-jeft97.netlify.app/){:style="display:block; color:white; text-decoration:none;"}  
-[Shopping Cart](https://shop-cart-2024.netlify.app/){:style="display:block; color:white; text-decoration:none;"}  
-[Dictionary Web App](https://dictionary-web-app-jeft97.netlify.app/){:style="display:block; color:white; text-decoration:none;"}  
-[Blog - Front Page](https://personal-blog-2022.netlify.app){:style="display:block; color:white; text-decoration:none;"}  
-[Weather Web App](https://weather-jeft97.netlify.app/){:style="display:block; color:white; text-decoration:none;"}
-</div>
+---
+
 
 ![jeft's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeft97&show_icons=true&theme=radical)
 
