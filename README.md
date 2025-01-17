@@ -4,37 +4,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefte-matamba-b57484151/)
 
 ## See Some of My Work
+
 <div style="margin-bottom: 20px;">
-    <a style="display: block; text-decoration: none; color: white;" 
-       href="https://hair-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"
-       onmouseover="this.style.textDecoration='underline'" 
-       onmouseout="this.style.textDecoration='none'">
-       Hair Dresser
-    </a>
-    <a style="display: block; text-decoration: none; color: white;" 
-       href="https://shop-cart-2024.netlify.app/" target="_blank" rel="noopener noreferrer"
-       onmouseover="this.style.textDecoration='underline'" 
-       onmouseout="this.style.textDecoration='none'">
-       Shopping Cart
-    </a>
-    <a style="display: block; text-decoration: none; color: white;" 
-       href="https://dictionary-web-app-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"
-       onmouseover="this.style.textDecoration='underline'" 
-       onmouseout="this.style.textDecoration='none'">
-       Dictionary Web App
-    </a>
-    <a style="display: block; text-decoration: none; color: white;" 
-       href="https://personal-blog-2022.netlify.app" target="_blank" rel="noopener noreferrer"
-       onmouseover="this.style.textDecoration='underline'" 
-       onmouseout="this.style.textDecoration='none'">
-       Blog - Front Page
-    </a>
-    <a style="display: block; text-decoration: none; color: white;" 
-       href="https://weather-jeft97.netlify.app/" target="_blank" rel="noopener noreferrer"
-       onmouseover="this.style.textDecoration='underline'" 
-       onmouseout="this.style.textDecoration='none'">
-       Weather Web App
-    </a>
+
+[Hair Dresser](https://hair-jeft97.netlify.app/){:style="display:block; color:white; text-decoration:none;"}  
+[Shopping Cart](https://shop-cart-2024.netlify.app/){:style="display:block; color:white; text-decoration:none;"}  
+[Dictionary Web App](https://dictionary-web-app-jeft97.netlify.app/){:style="display:block; color:white; text-decoration:none;"}  
+[Blog - Front Page](https://personal-blog-2022.netlify.app){:style="display:block; color:white; text-decoration:none;"}  
+[Weather Web App](https://weather-jeft97.netlify.app/){:style="display:block; color:white; text-decoration:none;"}
 </div>
 
 ![jeft's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeft97&show_icons=true&theme=radical)
