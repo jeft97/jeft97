@@ -11,7 +11,7 @@
 ✍️  <a href="https://personal-blog-2022.netlify.app" target="_blank">Blog - Front Page</a>   <br/>
 🌦️  <a href="https://weather-jeft97.netlify.app/" target="_blank">Weather Web App</a>
 
-##
+###
 
 
 ![jeft's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeft97&show_icons=true&theme=radical)
